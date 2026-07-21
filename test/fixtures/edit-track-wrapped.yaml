@@ -1,0 +1,15 @@
+album: Test Album
+artist: Test Artist
+id: 1
+path: /music/Test Artist/Test Album/Extended Test Recordings Volume One/01 Track
+  1.flac
+title: Track 1
+track: 1
+---
+album: Test Album
+artist: Test Artist
+id: 2
+path: /music/Test Artist/Test Album/Extended Test Recordings Volume One/02 Track
+  2.flac
+title: Track 2
+track: 2

@@ -1,0 +1,17 @@
+album: Test Album
+albumartist: Test Artist
+catalognum: ''
+genres:
+- Test Genre
+id: 1
+label: ''
+year: 0
+---
+album: Other Album
+albumartist: Other Artist
+catalognum: OA-001
+genres:
+- Other Genre
+id: 2
+label: Test Label
+year: 1975
